@@ -13,8 +13,8 @@
     <module>helloCompositeExporter</module>
   </modules>
   <scm>
-    <connection>scm:git:https://github.com/arunans23/MI_CICD.git</connection>
-    <developerConnection>scm:git:https://github.com/arunans23/MI_CICD.git</developerConnection>
+    <connection>scm:git:https://github.com/arunans23/MI_CICD_DOCKER.git</connection>
+    <developerConnection>scm:git:https://github.com/arunans23/MI_CICD_DOCKER.git</developerConnection>
     <url>https://github.com/arunans23/MI_CICD_DOCKER.git</url>
   </scm>
   <distributionManagement>
