@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.example</groupId>
   <artifactId>helloKubernetesExporter</artifactId>
-  <version>1.0.311-SNAPSHOT</version>
+  <version>1.0.311</version>
   <name>helloKubernetesExporter</name>
   <description>helloKubernetesExporter</description>
   <properties>
@@ -21,7 +21,7 @@
     <dependency>
       <groupId>wso2.sampleHelloWorld</groupId>
       <artifactId>helloCompositeExporter</artifactId>
-      <version>1.0.311-SNAPSHOT</version>
+      <version>1.0.311</version>
       <type>car</type>
     </dependency>
   </dependencies>
@@ -53,7 +53,7 @@
         <artifactId>maven-eclipse-plugin</artifactId>
         <version>2.9</version>
         <configuration>
-          <buildcommands/>
+          <buildcommands />
           <projectnatures>
             <projectnature>org.wso2.developerstudio.eclipse.kubernetes.distribution.project.nature</projectnature>
           </projectnatures>
@@ -79,7 +79,7 @@
             </configuration>
           </execution>
         </executions>
-        <configuration/>
+        <configuration />
       </plugin>
       <plugin>
         <groupId>org.wso2.maven</groupId>
@@ -104,7 +104,7 @@
             </configuration>
           </execution>
         </executions>
-        <configuration/>
+        <configuration />
       </plugin>
       <plugin>
         <groupId>com.spotify</groupId>
@@ -140,7 +140,7 @@
             </configuration>
           </execution>
         </executions>
-        <configuration/>
+        <configuration />
       </plugin>
     </plugins>
   </build>
