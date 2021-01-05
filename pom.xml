@@ -17,13 +17,6 @@
     <url>https://github.com/arunans23/MI_CICD_DOCKER.git</url>
     <tag>HEAD</tag>
   </scm>
-  <distributionManagement>
-    <repository>
-      <id>releases</id>
-      <name>WSO2 Release Distribution Repository</name>
-      <url>http://192.168.112.16/:8081/nexus/content/repositories/development/</url>
-    </repository>
-  </distributionManagement>
   <properties>
     <project.scm.id>my-scm-server</project.scm.id>
   </properties>
