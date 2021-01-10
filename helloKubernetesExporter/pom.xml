@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.example</groupId>
   <artifactId>helloKubernetesExporter</artifactId>
-  <version>1.0.325</version>
+  <version>1.0.326-SNAPSHOT</version>
   <name>helloKubernetesExporter</name>
   <description>helloKubernetesExporter</description>
   <properties>
@@ -21,7 +21,7 @@
     <dependency>
       <groupId>wso2.sampleHelloWorld</groupId>
       <artifactId>helloCompositeExporter</artifactId>
-      <version>1.0.325</version>
+      <version>1.0.326-SNAPSHOT</version>
       <type>car</type>
     </dependency>
   </dependencies>
